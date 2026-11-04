@@ -21,18 +21,18 @@
 ├── README.upstream.md
 ├── SKILL.md
 ├── references/
-├── anti-template-repair.md
-├── generated-media.md
-├── production-quality-gates.md
-├── project-calibration.md
-├── review-method.md
-├── rubric-assets-prompts.md
-├── rubric-source-analysis.md
-├── rubric-story-script.md
-├── rubric-visual-motion.md
-└── stage-contract.md
+│   ├── anti-template-repair.md
+│   ├── generated-media.md
+│   ├── production-quality-gates.md
+│   ├── project-calibration.md
+│   ├── review-method.md
+│   ├── rubric-assets-prompts.md
+│   ├── rubric-source-analysis.md
+│   ├── rubric-story-script.md
+│   ├── rubric-visual-motion.md
+│   └── stage-contract.md
 └── agents/
-└── openai.yaml
+    └── openai.yaml
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
